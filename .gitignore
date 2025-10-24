@@ -1,0 +1,9 @@
+*.DS_Store
+build
+build-examples
+node_modules
+.vscode
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+branch_structure.json
